@@ -8,4 +8,4 @@ In this repo you will find:
 - 3 images with the expected results of the tests
 - A small presentation on the topic
 
-***N.B.*** the test use the wfdb-matlab package to access the Physionet dababase. See https://physionet.org/content/wfdb-matlab/0.10.0/ for more informations
+***N.B.*** the tests use the wfdb-matlab package to access the Physionet dababase. See https://physionet.org/content/wfdb-matlab/0.10.0/ to get it
